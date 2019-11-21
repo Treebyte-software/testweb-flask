@@ -1,11 +1,13 @@
-Commercial License
+# Commercial License
 
 Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
+
+<br />
 
 ## Licensing Information:
 
 | Item | Info |
-| --- | --- |
+| ---------------------------------- | --- |
 | Type | Personal |
 | Use for print | YES |
 | Create single personal website/app | YES |
@@ -19,6 +21,7 @@ Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
 | Separate sale of our UI Elements | NO |
 | Create online/offline generators based on our products | NO |
 
+<br />
 
 ## Note for freelancers and agencies
 
