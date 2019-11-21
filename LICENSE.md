@@ -6,9 +6,11 @@ Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
 
 ## Licensing Information:
 
+<br />
+
 | Item | Info |
 | ---------------------------------- | --- |
-| Type | Personal |
+| License Type | Personal |
 | Use for print | YES |
 | Create single personal website/app | YES |
 | Create single website/app for client | YES | 
