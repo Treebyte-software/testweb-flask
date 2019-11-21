@@ -30,7 +30,7 @@ def route_template(template):
         return render_template(template + '.html')
 
     except TemplateNotFound:
-        return render_template('error-404.html'), 404
+        return render_template('error.html'), 404
     
     except:
-        return render_template('error-500.html'), 500
+        return render_template('error.html'), 500

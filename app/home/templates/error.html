@@ -1,0 +1,53 @@
+{% extends "base_site_fullscreen.html" %}
+
+{% block title %} Error {% endblock title %}
+
+{% block body_class %} off-canvas-sidebar {% endblock body_class %}
+
+{% block wrapper_class %} wrapper-full-page {% endblock wrapper_class %}
+
+{% block content %}
+
+    <div class="page-header error-page header-filter" style="background-image: url('/static/assets/img/clint-mckoy.jpg')">
+      <!--   you can change the color of the filter page using: data-color="blue | green | orange | red | purple" -->
+      <div class="content-center">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="title">404</h1>
+            <h2>Page not found :(</h2>
+            <h4>Ooooups! Looks like you got lost.</h4>
+          </div>
+        </div>
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <nav class="float-left">
+            <ul>
+              <li>
+                <a href="http://appseed.us/admin-dashboards/flask-dashboard-material-pro">
+                  Flask Dashboard Material Pro
+                </a>
+              </li>
+            </ul>
+          </nav>
+          <div class="copyright float-right">
+            &copy;
+            <script>
+              document.write(new Date().getFullYear())
+            </script>
+            <a href="https://www.creative-tim.com/product/material-dashboard-pro">
+            Creative-Tim
+            </a>.
+            Coded in <a href="https://palletsprojects.com/p/flask/">Flask</a> by AppSeed. 
+          </div>
+        </div>
+      </footer>
+    </div>
+  
+
+    
+{% endblock content %}
+
+{% block javascripts %}
+
+{% endblock javascripts %}
