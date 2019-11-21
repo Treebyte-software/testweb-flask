@@ -1,6 +1,6 @@
-# [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/priv-flask-dashboard-material-pro)
+# [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/priv-flask-dashboard-material-pro)** coded in **Flask Framework** on top of **Material Dashboard PRO** design. **Features**:
+**[Commercial Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)** coded in **Flask Framework** on top of **Material Dashboard PRO** design. **Features**:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM
@@ -10,11 +10,12 @@
 - Forms validation
 - Unitary tests
 - Deployment scripts: Docker, Gunicorn
-- **License MIT**
+- UI Kit: [Material Dashboard Pro](https://www.creative-tim.com/product/material-dashboard-pro) provided by **Creative-Tim**
+- **License Commercial**
 
 <br />
 
-![Flask Dashboard Argon - Open-Source Flask Boilerplate.](https://raw.githubusercontent.com/app-generator/static/master/products/priv-flask-dashboard-material-pro-intro.gif)
+![Flask Dashboard Material Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)
 
 <br />
 
