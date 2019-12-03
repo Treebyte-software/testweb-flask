@@ -1,0 +1,13 @@
+{
+    "connection_type": "oracle+cx_oracle",
+    "connection_string": "ss_grom_165:treebyte@vis04_orc",
+    "layouts_path": "layouts",
+    "reports_path": "iaprofiles/temp",
+    "iaengine": "d:/treebyte/stockstore-pos-mobile/v100/server/iaengine.dll",
+    "record_page_size": "1000",
+    "pool_size": "30",
+    "host": "10.18.101.166",
+    "port": "1213",
+    "log_file_name": "sspos_mobile_server.log",
+    "app_name": "SS_MOBILE_POS"
+}
