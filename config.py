@@ -22,8 +22,8 @@ class Config(object):
 
 class ConfigOracleConn(Config):
     SECRET_KEY = 'key'
-    #SQLALCHEMY_DATABASE_URI = 'oracle://ss_grom_165:treebyte@vis04_orc'
-    SQLALCHEMY_DATABASE_URI = 'oracle://ss_grom_165/treebyte@10.18.101.7:1521/orcl'
+    #SQLALCHEMY_DATABASE_URI = 'oracle+cx_oracle://ss_grom_165:treebyte@vis04_orcl'
+    SQLALCHEMY_DATABASE_URI = 'oracle+cx_oracle://ss_grom_165:treebyte@10.18.101.7:1521/orcl'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     DEFAULT_THEME = None
 
